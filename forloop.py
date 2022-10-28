@@ -1,3 +1,4 @@
 i=10;
 print("i is integer")
-print("given")
+print("givehhiohiioh  ihb knn kn n")
+print("bandwidth")
